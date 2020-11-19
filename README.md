@@ -1,2 +1,2 @@
-# udemy-built-website.2
+# personal-website
 Website built with the help of udemy html class
